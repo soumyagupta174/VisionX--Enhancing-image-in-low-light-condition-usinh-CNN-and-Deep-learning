@@ -74,6 +74,6 @@ Contributions are welcome! If you have ideas for improvements, feel free to open
 This project is licensed under the MIT License.
 
 ---
-📌 *Author:* Sourav Gupta  
-📧 *Contact:* [souravrrr75@gmail.com]  
-🔗 *GitHub:* [https://github.com/SouravGupta778]
+📌 *Author:* soumya Gupta  
+📧 *Contact:* [soumyagupta174@gmail.com]  
+🔗 *GitHub:* [https://github.com/soumyagupta174]
